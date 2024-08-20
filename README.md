@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sean Macarayo</h1>
+<h1 align="center">Hi 👋, I'm Sean Joerick Macarayo</h1>
 <h3 align="center">A passionate Developer</h3>
 
 
