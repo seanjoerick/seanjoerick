@@ -1,20 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Sean Joerick Macarayo</h1>
-<h3 align="center">A passionate Developer</h3>
-
-
-
-
-- 🔭 I’m currently working on **MERN-Help Desk System**
-
-- 🌱 I’m currently learning **React Native, Nodejs, Expressjs**
-
-- 💬 Ask me about **Database stuff and Backend stuff**
-
-- 📫 How to reach me **mcdetails011@gmail.com**
-
-- ⚡ Fun fact **I am a funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://twitter.com/@smacarayo16607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@smacarayo16607" height="30" width="40" /></a>
