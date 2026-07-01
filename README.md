@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img src="thorfinn.webp" alt="banner" width="500" height="200" />
+  <img src="thorfinn.webp" alt="banner" width="600" height="200" />
 </div>
 
 ---
@@ -62,8 +62,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seanjoerick&show_icons=true&theme=dark&hide_border=true&title_color=C69749&icon_color=C69749&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjoerick&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=C69749&text_color=ffffff&bg_color=0d1117" />
+  <img src="github-stats.svg" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seanjoerick&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
