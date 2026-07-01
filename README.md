@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="thorfinn.webp" alt="banner" width="800" />
+<img src="thorfinn.webp" alt="banner" width="500" height="200" />
 </div>
 
 <h1 align="center">Hi, I'm Sean 👋</h1>
