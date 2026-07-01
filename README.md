@@ -1,11 +1,5 @@
-<div align="center">
-  <img src="thorfinn.webp" alt="banner" width="800" />
-</div>
-
 <h1 align="center">Hi, I'm Sean 👋</h1>
-<p align="center">
-  <strong>Fullstack Engineer</strong>
-</p>
+<p align="center"><strong>Fullstack Engineer</strong></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sean-macarayo-708b89405">
@@ -15,6 +9,12 @@
     <img src="https://img.shields.io/badge/Portfolio-C69749?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="thorfinn.webp" alt="banner" width="600" height="200" />
+</div>
 
 ---
 
@@ -62,8 +62,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seanjoerick&show_icons=true&theme=dark&hide_border=true&title_color=C69749&icon_color=C69749&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjoerick&layout=compact&theme=dark&hide_border=true&title_color=C69749&text_color=ffffff&bg_color=0d1117" width="40%" />
+  <img src="github-stats.svg" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seanjoerick&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
