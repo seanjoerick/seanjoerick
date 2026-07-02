@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sean 👋</h1>
-<p align="center"><strong>Fullstack Engineer</strong></p>
+<p align="center"><strong>AI Fullstack Engineer</strong></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sean-macarayo-708b89405">
