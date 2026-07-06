@@ -2,7 +2,7 @@
 <p align="center"><strong>AI Fullstack Engineer</strong></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sean-macarayo-708b89405">
+  <a href="https://www.linkedin.com/in/sean-sebastian-macarayo-598b521a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://seanjoerick.github.io">
